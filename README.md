@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={iuholic83@gmail.com})](https://solved.ac/{iuholic83@gmail.com})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuholic9983)](https://solved.ac/iuholic9983/)
 
 <!--
 **winterholic/winterholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
