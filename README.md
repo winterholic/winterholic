@@ -1,4 +1,4 @@
-## Hi there 👋
+## Profile 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuholic9983)](https://solved.ac/iuholic9983/)
 
