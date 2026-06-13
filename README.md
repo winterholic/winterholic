@@ -12,10 +12,6 @@
 
 <div align="center">
 
-### 🧊 어쩌다 보니 여기까지 온 사람
-
-`겨울(winter)` + `중독(holic)` &nbsp;·&nbsp; 차갑게 시작해서 뜨겁게 파고드는 타입
-
 코드 한 줄 한 줄보다 **"이걸 왜, 어떻게 풀까"** 를 더 오래 들여다봅니다.<br/>
 도구는 손에 익으면 그만 — 결국 재밌는 건 **사람이 내리는 결정**이니까요.
 
@@ -25,22 +21,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-#### 🧠 요즘 머릿속
-> 좋은 질문 하나가<br/>좋은 코드 백 줄보다 낫다
-
-</td>
-<td align="center" width="50%">
-
-#### 🎯 좋아하는 순간
-> 복잡하던 문제가<br/>한 문장으로 정리될 때
-
-</td>
-</tr>
-</table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 
 </div>
 
@@ -63,11 +44,21 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=winterholic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=26d0ce&title_color=26d0ce" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=winterholic&hide_border=true&theme=tokyonight&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" />
+<img height="170" src="https://streak-stats.demolab.com/?user=winterholic&hide_border=true&theme=tokyonight&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=winterholic&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&column=7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterholic&layout=compact&hide_border=true&count_private=true&theme=tokyonight&title_color=26d0ce" />
+
+</div>
+
+<br/>
+
+## 🌊 활동 그래프
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=winterholic&bg_color=1a1b27&color=26d0ce&line=26d0ce&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -86,10 +77,6 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=winterholic&label=%EB%93%A4%EB%A5%B8+%EC%82%AC%EB%9E%8C&color=26d0ce&style=flat" alt="profile views" />
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/AriAri-Dong"><img src="https://img.shields.io/badge/with-AriAri--Dong-26d0ce?style=flat&logo=github&logoColor=white" alt="AriAri-Dong" /></a>
 
 <br/><br/>
 
