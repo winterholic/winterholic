@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=winterholic&label=%EB%93%A4%EB%A5%B8+%EC%82%AC%EB%9E%8C&color=26d0ce&style=flat" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=winterholic.winterholic&left_text=%EB%93%A4%EB%A5%B8%20%EC%82%AC%EB%9E%8C&left_color=2d2d44&right_color=26d0ce" alt="profile views" />
 
 <br/><br/>
 
