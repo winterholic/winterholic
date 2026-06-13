@@ -23,6 +23,10 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="random dev joke" />
+
 </div>
 
 <br/>
@@ -49,6 +53,21 @@
 <br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterholic&layout=compact&hide_border=true&count_private=true&theme=tokyonight&title_color=26d0ce" />
+
+<br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winterholic&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=winterholic&theme=tokyonight&utcOffset=9" />
+
+</div>
+
+<br/>
+
+## 🧊 3D 잔디밭
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/winterholic/winterholic/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar" />
 
 </div>
 
