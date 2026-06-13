@@ -1,18 +1,100 @@
-## Profile 👋👋👋
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=winterholic&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=%EC%BD%94%EB%93%9C%EB%8A%94+%EA%B1%B0%EB%93%A4%EC%9D%80+AI%EA%B0%80%2C+%ED%8C%90%EB%8B%A8%EC%9D%80+%EB%82%B4%EA%B0%80&descSize=18&descAlignY=60&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=26D0CE&center=true&vCenter=true&width=620&lines=%EC%96%B4%EC%84%9C%EC%99%80%2C+%EB%82%B4+%EB%A6%AC%EB%93%9C%EB%AF%B8%EB%8A%94+%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80%3F+%F0%9F%91%8B;%EB%B0%A9%ED%96%A5+%EC%A0%95%ED%95%98%EB%8A%94+%EA%B1%B4+%EB%82%B4%EA%B0%80%2C+%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%80+AI%EA%B0%80;%EA%B3%A0%EB%AF%BC%EC%9D%80+%EA%B9%8A%EA%B2%8C%2C+%EC%9D%B8%EC%83%9D%EC%9D%80+%EA%B0%80%EB%B3%8D%EA%B2%8C+%E2%9C%A8" alt="typing" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧊 어쩌다 보니 여기까지 온 사람
+
+`겨울(winter)` + `중독(holic)` &nbsp;·&nbsp; 차갑게 시작해서 뜨겁게 파고드는 타입
+
+코드 한 줄 한 줄보다 **"이걸 왜, 어떻게 풀까"** 를 더 오래 들여다봅니다.<br/>
+도구는 손에 익으면 그만 — 결국 재밌는 건 **사람이 내리는 결정**이니까요.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🧠 요즘 머릿속
+> 좋은 질문 하나가<br/>좋은 코드 백 줄보다 낫다
+
+</td>
+<td align="center" width="50%">
+
+#### 🎯 좋아하는 순간
+> 복잡하던 문제가<br/>한 문장으로 정리될 때
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🏅 오늘도 한 문제
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuholic9983)](https://solved.ac/iuholic9983/)
 
-<!--
-**winterholic/winterholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>알고리즘은 두뇌 스트레칭 🧘</sub>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 📈 숫자로 보는 발자국
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=winterholic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=26d0ce&title_color=26d0ce" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=winterholic&hide_border=true&theme=tokyonight&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=winterholic&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&column=7" />
+
+</div>
+
+<br/>
+
+## 🐍 잔디밭 산책하는 뱀
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/winterholic/winterholic/output/snake.svg" alt="contribution snake" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=winterholic&label=%EB%93%A4%EB%A5%B8+%EC%82%AC%EB%9E%8C&color=26d0ce&style=flat" alt="profile views" />
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/AriAri-Dong"><img src="https://img.shields.io/badge/with-AriAri--Dong-26d0ce?style=flat&logo=github&logoColor=white" alt="AriAri-Dong" /></a>
+
+<br/><br/>
+
+<sub><i>여기까지 봐줘서 고마워요 — 오늘도 좋은 결정 내리는 하루 되시길 ☃️</i></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+
+</div>
