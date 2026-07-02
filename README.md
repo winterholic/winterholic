@@ -21,11 +21,20 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+## 🚀 만든 것들
 
-<br/>
+| | | |
+|:---:|---|---|
+| 🏠 | **홈랩 인프라 운영 포트폴리오** | [server-manager-blush.vercel.app](https://server-manager-blush.vercel.app/) |
+| 🎡 | **ariari** | [ariari.kr](https://ariari.kr) |
+| 🧠 | **mbtid** | [mbtid.vercel.app](https://mbtid.vercel.app) |
+| 🧑‍🤝‍🧑 | **facereview** | [facereview.net](https://facereview.net) |
+| 🔑 | **key generator** | [key-generator-pearl.vercel.app](https://key-generator-pearl.vercel.app) |
+| ☕ | **너 오늘 커피사라** <sub>(가벼운 웹 게임)</sub> | [coffeeloser.winterholic.net](https://coffeeloser.winterholic.net/) |
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="random dev joke" />
+🧰 이 모든 작업의 기반이 되는 **Claude Code 하네스**(스킬·룰 체계) 공개 저장소 — [winterholic/winterholic-skill](https://github.com/winterholic/winterholic-skill)
+
+<sub>더 만들면 계속 추가할게요. 지금은 이 정도만 :)</sub>
 
 </div>
 
