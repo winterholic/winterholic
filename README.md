@@ -25,7 +25,7 @@
 
 | 프로젝트 | |
 |---|---|
-| **홈랩 인프라 운영 포트폴리오** | [바로가기 ↗](https://server-manager-blush.vercel.app/) |
+| **홈서버 인프라 운영 포트폴리오** | [바로가기 ↗](https://server-manager-blush.vercel.app/) |
 | **ariari** | [바로가기 ↗](https://ariari.kr) |
 | **mbtid** | [바로가기 ↗](https://mbtid.vercel.app) |
 | **facereview** | [바로가기 ↗](https://facereview.net) |
