@@ -23,22 +23,59 @@
 
 ## winterholic 포트폴리오 바로가기
 
-| 포트폴리오 | |
-|---|---|
-| **홈서버 인프라 운영 포트폴리오** | [바로가기 ↗](https://server-manager-blush.vercel.app/) |
+<table width="80%">
+  <thead>
+    <tr>
+      <th>포트폴리오</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>홈서버 인프라 운영 포트폴리오</strong></td>
+      <td><a href="https://server-manager-blush.vercel.app/">바로가기 ↗</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
 ## winterholic 프로젝트 바로가기
 
-| 프로젝트 | |
-|---|---|
-| **ariari** | [바로가기 ↗](https://ariari.kr) |
-| **mbtid** | [바로가기 ↗](https://mbtid.vercel.app) |
-| **facereview** | [바로가기 ↗](https://facereview.net) |
-| **key generator** | [바로가기 ↗](https://key-generator-pearl.vercel.app) |
-| **너 오늘 커피사라** | [바로가기 ↗](https://coffeeloser.winterholic.net/) |
-| **winterholic-skill** <sub>Claude Code 하네스 공개 저장소</sub> | [바로가기 ↗](https://github.com/winterholic/winterholic-skill) |
+<table width="80%">
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ariari</strong></td>
+      <td><a href="https://ariari.kr">바로가기 ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>mbtid</strong></td>
+      <td><a href="https://mbtid.vercel.app">바로가기 ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>facereview</strong></td>
+      <td><a href="https://facereview.net">바로가기 ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>key generator</strong></td>
+      <td><a href="https://key-generator-pearl.vercel.app">바로가기 ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>너 오늘 커피사라</strong></td>
+      <td><a href="https://coffeeloser.winterholic.net/">바로가기 ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>winterholic-skill</strong> <sub>Claude Code 하네스 공개 저장소</sub></td>
+      <td><a href="https://github.com/winterholic/winterholic-skill">바로가기 ↗</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
