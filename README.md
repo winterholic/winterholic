@@ -21,11 +21,18 @@
 
 <div align="center">
 
+## winterholic 포트폴리오 바로가기
+
+| 포트폴리오 | |
+|---|---|
+| **홈서버 인프라 운영 포트폴리오** | [바로가기 ↗](https://server-manager-blush.vercel.app/) |
+
+<br/>
+
 ## winterholic 프로젝트 바로가기
 
 | 프로젝트 | |
 |---|---|
-| **홈서버 인프라 운영 포트폴리오** | [바로가기 ↗](https://server-manager-blush.vercel.app/) |
 | **ariari** | [바로가기 ↗](https://ariari.kr) |
 | **mbtid** | [바로가기 ↗](https://mbtid.vercel.app) |
 | **facereview** | [바로가기 ↗](https://facereview.net) |
