@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=26D0CE&center=true&vCenter=true&width=620&lines=%EC%96%B4%EC%84%9C%EC%99%80%2C+%EB%82%B4+%EB%A6%AC%EB%93%9C%EB%AF%B8%EB%8A%94+%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80%3F;%EB%B0%A9%ED%96%A5+%EC%A0%95%ED%95%98%EB%8A%94+%EA%B1%B4+%EB%82%B4%EA%B0%80%2C+%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%80+AI%EA%B0%80;%EA%B3%A0%EB%AF%BC%EC%9D%80+%EA%B9%8A%EA%B2%8C%2C+%EC%9D%B8%EC%83%9D%EC%9D%80+%EA%B0%80%EB%B3%8D%EA%B2%8C" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=26D0CE&center=true&vCenter=true&width=620&lines=%EC%96%B4%EC%84%9C%EC%99%80%2C+%EB%82%B4+%EB%A6%AC%EB%93%9C%EB%AF%B8%EB%8A%94+%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80%3F;%EB%82%98%EB%8A%94%20%EC%95%BC%EB%AC%B4%EC%A7%80%EA%B2%8C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90;%ED%95%A0%20%EB%95%90%20%EB%B9%A1%EC%84%B8%EA%B2%8C%20%ED%95%98%EA%B3%A0%20%EB%86%80%20%EB%95%90%20%EB%86%80%EC%9E%90" alt="typing" />
 
 </div>
 
