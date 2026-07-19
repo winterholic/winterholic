@@ -35,6 +35,10 @@
       <td><strong>홈서버 인프라 운영 포트폴리오</strong></td>
       <td><a href="https://server-manager-blush.vercel.app/">바로가기 ↗</a></td>
     </tr>
+    <tr>
+      <td><strong>FaceReview 포트폴리오</strong></td>
+      <td><a href="https://portfolio.facereview.net/">바로가기 ↗</a></td>
+    </tr>
   </tbody>
 </table>
 
